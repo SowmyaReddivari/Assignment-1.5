@@ -1,0 +1,35 @@
+1. Explain hadoop in layman's term
+
+   * In layman's term,hadoop is a collection of open source program.
+   * It is freely available for use,reuse and modification.
+   * It manages the large amount of data.
+
+2. Explain the components of Hadoop framework
+    
+      There are three components in hadoop.they are,
+             
+               * HDFS
+               * Map Reduce
+               * Yarn
+   HDFS:
+
+       * HDFS is a java based file system and it provides scalable and reliable data storage.
+       * HDFs splits the file into smaller files before processing and files are also replicated into different servers.
+   
+   Map Reduce:
+      
+       * Map redue is used for scheduling and processing the data. 
+       * It contains two important tasks.They are Map and Reduce.
+       * Map Reduce function mainly operates on key,value pairs. 
+  Yarn:
+       * It is one of the key features of hadoop.
+       * It is a large scale,distributed operated system.
+
+3. Explain the reasons to learn Big data technologies  
+    
+     The reasons for learning Big data tectnologies:
+        
+     * They are used for predictive analysis and user behaviour analysis.
+     * Big data is a new style of IT emerging.
+     * Demand for big data skills are high.      
+  
